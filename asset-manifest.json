@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testwedding/static/css/main.bb8eb87d.css",
-    "main.js": "/testwedding/static/js/main.eccdfc67.js",
+    "main.js": "/testwedding/static/js/main.3f13d7e4.js",
     "static/js/453.ec03d368.chunk.js": "/testwedding/static/js/453.ec03d368.chunk.js",
     "static/media/SSRockRegular_otf.otf": "/testwedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
     "static/media/SSRockRegular.ttf": "/testwedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
@@ -31,11 +31,11 @@
     "static/media/tmap_icon.jpg": "/testwedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
     "index.html": "/testwedding/index.html",
     "main.bb8eb87d.css.map": "/testwedding/static/css/main.bb8eb87d.css.map",
-    "main.eccdfc67.js.map": "/testwedding/static/js/main.eccdfc67.js.map",
+    "main.3f13d7e4.js.map": "/testwedding/static/js/main.3f13d7e4.js.map",
     "453.ec03d368.chunk.js.map": "/testwedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb8eb87d.css",
-    "static/js/main.eccdfc67.js"
+    "static/js/main.3f13d7e4.js"
   ]
 }
